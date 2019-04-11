@@ -23,7 +23,10 @@ app.get('/api/token/:token_id', function(req, res) {
   const data = {
     'name': aqar.name,
     'attributes': {
-      // 'age': moment().diff(person.birthday, 'years')
+      'sq_foot': aqar.sq_foot,
+      'color': aqar.color,
+      'rating': aqar.rating,
+      'type': aqar.type
     },
     'image': `${HOST}/images/${tokenId}.png`
   }
