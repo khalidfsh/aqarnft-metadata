@@ -1,22 +1,80 @@
 module.exports = {
+  "0": {
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
+  },
   "1": {
-    "name": "Chunky Monkey",
-    "birthday": "10-18"
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
   },
   "2": {
-    "name": "Flerp Derp",
-    "birthday": "01-08"
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
   },
   "3": {
-    "name": "Buttle McFuddle",
-    "birthday": "01-22"
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
   },
   "4": {
-    "name": "Quiero Pancakes",
-    "birthday": "03-04"
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
   },
   "5": {
-    "name": "Guino the Penguin",
-    "birthday": "03-09"
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
+  },
+  "6": {
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
+  },
+  "7": {
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
+  },
+  "8": {
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
+  },
+  "9": {
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
+  },
+  "10": {
+    "name": "House",
+    "sq_foot": "1200",
+    "color": "tan",
+    "rating": 10,
+    "type": "house"
   }
+  
 }
