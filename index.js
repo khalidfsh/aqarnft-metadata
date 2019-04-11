@@ -28,7 +28,7 @@ app.get('/api/token/:token_id', function(req, res) {
       'rating': aqar.rating,
       'type': aqar.type
     },
-    'image': `${HOST}/images/${tokenId}.png`
+    'image': `${HOST}/images/${tokenId}.jpg`
   }
   res.send(data)
 })
