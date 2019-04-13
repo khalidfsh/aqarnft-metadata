@@ -1,31 +1,24 @@
 module.exports = {
-  "0": {
-    "name": "House",
-    "sq_foot": "1200",
-    "color": "tan",
-    "rating": 10,
-    "type": "house"
-  },
   "1": {
+    "name": "modern pool house",
+    "sq_foot": "1500",
+    "color": "white",
+    "rating": 10,
+    "type": "pool house"
+  },
+  "2": {
     "name": "Modern Villa",
     "sq_foot": "600",
     "color": "tan",
     "rating": 7,
     "type": "villa"
   },
-  "2": {
+  "3": {
     "name": "Islamic Design Villa",
     "sq_foot": "1000",
     "color": "white",
     "rating": 10,
     "type": "villa"
-  },
-  "3": {
-    "name": "House",
-    "sq_foot": "1200",
-    "color": "tan",
-    "rating": 10,
-    "type": "house"
   },
   "4": {
     "name": "Midagies Modern Villa",
@@ -60,7 +53,7 @@ module.exports = {
     "sq_foot": "800",
     "color": "white",
     "rating": 9,
-    "type": "villa"
+    "type": "pool villa"
   },
   "9": {
     "name": "Swiss House",
